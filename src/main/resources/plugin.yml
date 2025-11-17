@@ -1,0 +1,16 @@
+name: kAdminMode
+version: '1.0'
+main: vv0ta3fa9.plugin.kAdminMode.kAdminMode
+api-version: '1.16'
+load: STARTUP
+authors: [ vv0t3afa9 ]
+website: '@t.me/kapybarkaaa'
+commands:
+  kadminmode:
+    description: Admin mode toggle
+    usage: /kadminemode <switch>
+    aliases:
+      - adminemode
+      - sw
+      - amode
+      - am

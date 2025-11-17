@@ -1,0 +1,11 @@
+system:
+  no-permission: "&cУ тебя нет прав."
+  reload-plugin: "&aБип-пуп успешная перезагрузка"
+  console-only: "&cЭта команда доступна только из консоли!"
+commands:
+  switch:
+    enable: "&6kAdminMode &7>> &eВы &aвошли &eв режим работы!"
+    disable: "&6kAdminMode &7>> &eВы &cвышли &eиз режима работы!"
+another:
+  not-in-mode: "&6kAdminMode &7>> &cВы не находитесь в режиме работы!"
+  joined-admin:
